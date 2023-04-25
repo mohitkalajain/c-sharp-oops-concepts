@@ -1,0 +1,16 @@
+C:\Users\This-PC\source\repos\Use of  “params” keyword\bin\Debug\net5.0\Use of  “params” keyword.exe
+C:\Users\This-PC\source\repos\Use of  “params” keyword\bin\Debug\net5.0\Use of  “params” keyword.deps.json
+C:\Users\This-PC\source\repos\Use of  “params” keyword\bin\Debug\net5.0\Use of  “params” keyword.runtimeconfig.json
+C:\Users\This-PC\source\repos\Use of  “params” keyword\bin\Debug\net5.0\Use of  “params” keyword.runtimeconfig.dev.json
+C:\Users\This-PC\source\repos\Use of  “params” keyword\bin\Debug\net5.0\Use of  “params” keyword.dll
+C:\Users\This-PC\source\repos\Use of  “params” keyword\bin\Debug\net5.0\Use of  “params” keyword.pdb
+C:\Users\This-PC\source\repos\Use of  “params” keyword\obj\Debug\net5.0\Use of  “params” keyword.csproj.AssemblyReference.cache
+C:\Users\This-PC\source\repos\Use of  “params” keyword\obj\Debug\net5.0\Use of  “params” keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This-PC\source\repos\Use of  “params” keyword\obj\Debug\net5.0\Use of  “params” keyword.AssemblyInfoInputs.cache
+C:\Users\This-PC\source\repos\Use of  “params” keyword\obj\Debug\net5.0\Use of  “params” keyword.AssemblyInfo.cs
+C:\Users\This-PC\source\repos\Use of  “params” keyword\obj\Debug\net5.0\Use of  “params” keyword.csproj.CoreCompileInputs.cache
+C:\Users\This-PC\source\repos\Use of  “params” keyword\obj\Debug\net5.0\Use of  “params” keyword.dll
+C:\Users\This-PC\source\repos\Use of  “params” keyword\obj\Debug\net5.0\refint\Use of  “params” keyword.dll
+C:\Users\This-PC\source\repos\Use of  “params” keyword\obj\Debug\net5.0\Use of  “params” keyword.pdb
+C:\Users\This-PC\source\repos\Use of  “params” keyword\obj\Debug\net5.0\Use of  “params” keyword.genruntimeconfig.cache
+C:\Users\This-PC\source\repos\Use of  “params” keyword\obj\Debug\net5.0\ref\Use of  “params” keyword.dll
