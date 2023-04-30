@@ -5,4 +5,4 @@
 
 3 No additional parameters are permitted after the params keyword in a method declaration, and only one params keyword is permitted in a method declaration.
 
-4 If the declared type of the params parameter is not a single-dimensional array, compiler error .
+4 If the declared type of the params parameter is not a single-dimensional array, compiler error.
